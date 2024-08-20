@@ -2,3 +2,7 @@
 *.pdf
 *.zip
 *.h5
+
+
+!X_train.csv
+!y_train.csv
